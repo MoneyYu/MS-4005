@@ -17,9 +17,9 @@ Course Survey: [https://aka.ms/ms4005survey](https://aka.ms/ms4005survey)
 :::
 
 ## Course Materials
-[Course MS-4005 English version](https://learn.microsoft.com/en-us/training/paths/craft-effective-prompts-copilot-microsoft-365/)
-[Course MS-4005 简体中文版本](https://learn.microsoft.com/zh-cn/training/paths/craft-effective-prompts-copilot-microsoft-365/)
-[Course MS-4005 正體中文版本](https://learn.microsoft.com/zh-tw/training/paths/craft-effective-prompts-copilot-microsoft-365/)
+[Course MS-4005 English version](https://learn.microsoft.com/en-us/training/courses/ms-4005)
+[Course MS-4005 简体中文版本](https://learn.microsoft.com/zh-cn/training/courses/ms-4005)
+[Course MS-4005 正體中文版本](https://learn.microsoft.com/zh-tw/training/courses/ms-4005)
 
 ## Infos
 [ESI Support](https://aka.ms/esisupport)
@@ -66,13 +66,11 @@ Turtoial Video: https://media.yu.money/common/lods.html
 
 [Data, Privacy, and Security for Microsoft Copilot for Microsoft 365](https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-privacy)
 
-[Copilot Lab](https://copilot.cloud.microsoft/en-US/prompts?ocid=copilot_akams_copilotlab)
-
 [Semantic Index for Copilot](https://learn.microsoft.com/en-us/MicrosoftSearch/semantic-index-for-copilot)
 
 [Designing and developing a RAG solution](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-solution-design-and-evaluation-guide)
 
-[Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions#few-shot-learning)
+[Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
 
 [Microsoft Copilot Scenario Library](https://adoption.microsoft.com/en-us/copilot-scenario-library/)
 
@@ -98,12 +96,13 @@ Turtoial Video: https://media.yu.money/common/lods.html
 | 01-0-03 | Microsoft 365 Copilot in PowerPoint                               | https://youtu.be/fzoZ_f7ji5Q |
 | 01-0-04 | Microsoft 365 Copilot in Excel                                    | https://youtu.be/I-waFp6rLc0 |
 | 01-0-05 | Microsoft 365 Hour: Copilot for Outlook                           | https://youtu.be/IaPPfklqQDo |
-| 01-0-06 | Microsoft 365 Copilot in Teams Meetings                           | https://youtu.be/N1gpkk-MwpY |
-| 01-0-07 | Introducing Team Copilot - Microsoft 365                          | https://youtu.be/4k2T5sfGIP4 |
-| 01-0-08 | Copilot in Forms - Create engaging forms                          | https://youtu.be/LC58G_0SFmA |
-| 01-0-09 | Copilot in Stream - Insights for any video                        | https://youtu.be/fD1On2K1DQM |
-| 01-0-10 | Copilot in Whiteboard - Brainstorming                             | https://youtu.be/Gz9vKcuHKGk |
-| 01-0-11 | Transform sales effectiveness with Microsoft Copilot for Sales    | https://youtu.be/sNTV33EXpb8 |
+| 01-0-06 | Microsoft 365 Copilot in Teams                                    | https://youtu.be/nfRC_spQoSU |
+| 01-0-07 | Microsoft 365 Copilot in Teams Meetings                           | https://youtu.be/N1gpkk-MwpY |
+| 01-0-08 | Introducing Team Copilot - Microsoft 365                          | https://youtu.be/4k2T5sfGIP4 |
+| 01-0-09 | Copilot in Forms - Create engaging forms                          | https://youtu.be/LC58G_0SFmA |
+| 01-0-10 | Copilot in Stream - Insights for any video                        | https://youtu.be/fD1On2K1DQM |
+| 01-0-11 | Copilot in Whiteboard - Brainstorming                             | https://youtu.be/Gz9vKcuHKGk |
+| 01-0-12 | Transform sales effectiveness with Microsoft Copilot for Sales    | https://youtu.be/sNTV33EXpb8 |
 | ------- | ----------------------------------------------------------------- | ---------------------------- |
 | 01-2-01 | How Microsoft Copilot for Microsoft 365 works                     | https://youtu.be/XJsf0Tpz0ho |
 | 01-2-02 | The Copilot System: Explained by Microsoft                        | https://youtu.be/E5g20qmeKpg |
